@@ -1,4 +1,4 @@
-Atmcard.sh
+ Atmcard.sh 
 #!/bin/bash
 pin="2023"
 echo -n "please enter your pinnumber:"
