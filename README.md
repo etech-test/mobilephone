@@ -1,2 +1,2 @@
 # moblephone
-testing mobile version of etech pay
+testing mobile version of etech payment
